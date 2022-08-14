@@ -3,7 +3,7 @@ Status = "";
 function setup() {
     canvas = createCanvas(450,400);
     canvas.center();
-    canvas.position(620,330);
+    canvas.position(550,330);
 
     video = createCapture(VIDEO);
     video.size(450,400);
